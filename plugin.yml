@@ -1,0 +1,9 @@
+name: Admin-Mode
+api: 4.0.0
+version: 1
+main: Mr/Admin/Loader
+autor: Mr001
+
+permissions:
+ Admin.use:
+  default: op
